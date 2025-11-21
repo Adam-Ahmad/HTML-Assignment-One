@@ -1,0 +1,11 @@
+Initialize : git init
+
+stage : git add .
+
+Commit : git commit -m "My Assignment"
+
+push : git remote add origin https://github.com/Adam-Ahmad/HTML-Assignment-One.git
+
+        git branch -M
+
+        git push -u origin main
